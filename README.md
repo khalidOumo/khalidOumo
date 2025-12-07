@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hey there 👋 — welcome to my GitHub!
 
-<!--
-**khalidOumo/khalidOumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Khalid**, a **Full-Stack Software Builder** passionate about creating robust applications from **Web to Mobile**, with solid **Backend & CI/CD skills**. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I do
+- Build **Web Applications** using modern frameworks. 🌐
+- Develop **Mobile Apps** (Flutter / React Native). 📱
+- Implement **Backend Services** (Node.js, Firebase, REST APIs). 🛠️
+- Setup **CI/CD pipelines** for automated testing & deployment. ⚡
+
+---
+
+### 🌱 Currently learning
+- Advanced **Cloud Deployments** ☁️
+- Microservices & scalable backend architectures 🏗️
+- New UI/UX design patterns for Flutter & Web 🎨
+
+---
+
+### 👯 Collaboration
+- Open to collaborate on **full-stack projects**, **automation**, and **open source contributions**.  
+
+---
+
+### 💬 Ask me about
+- Web & Mobile App development  
+- Backend design & optimization  
+- CI/CD pipelines & DevOps automation  
+
+---
+
+### 📫 How to reach me
+- Email: `your.email@example.com`  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+### ⚡ Fun fact
+I love turning **complex ideas into simple, scalable software solutions**. 💡
