@@ -40,12 +40,5 @@ I'm **Khalid**, a **Full-Stack Software Builder** passionate about creating robu
 
 ---
 
-### 💬 Ask me about
-- Web & Mobile App development  
-- Backend architecture & optimization  
-- CI/CD pipelines & DevOps automation  
-
----
-
 ### ⚡ Fun fact
 I love turning **complex ideas into simple, scalable software solutions**. 💡
