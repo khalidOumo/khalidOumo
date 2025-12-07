@@ -5,28 +5,26 @@ I'm **Khalid**, a **Full-Stack Software Builder** passionate about creating robu
 ---
 
 ### 🔭 What I do
-- Build **Web Applications** using modern frameworks. 🌐
-- Develop **Mobile Apps** (Flutter / React Native). 📱
-- Implement **Backend Services** (Node.js, Firebase, REST APIs). 🛠️
-- Setup **CI/CD pipelines** for automated testing & deployment. ⚡
+- Build **Web Applications** using **Next.js** 🌐
+- Develop **Mobile Apps** with **Flutter** 📱
+- Implement **Backend Services** using **Node.js, Nest.js, or Express** 🛠️
+- Setup **CI/CD pipelines** for automated testing & deployment ⚡
 
 ---
 
-### 🌱 Currently learning
-- Advanced **Cloud Deployments** ☁️
-- Microservices & scalable backend architectures 🏗️
-- New UI/UX design patterns for Flutter & Web 🎨
-
----
-
-### 👯 Collaboration
-- Open to collaborate on **full-stack projects**, **automation**, and **open source contributions**.  
+### 💻 Skills
+- **Frontend / Web:** Next.js, React, HTML, CSS, Tailwind  
+- **Mobile:** Flutter, Dart  
+- **Backend / APIs:** Node.js, Nest.js, Express, Firebase, REST APIs  
+- **Database:** MySQL, MongoDB, Firebase Firestore  
+- **DevOps / CI-CD:** GitHub Actions, Fastlane, Docker  
+- **Other Tools:** Git, VS Code, Postman, Figma  
 
 ---
 
 ### 💬 Ask me about
 - Web & Mobile App development  
-- Backend design & optimization  
+- Backend architecture & optimization  
 - CI/CD pipelines & DevOps automation  
 
 ---
