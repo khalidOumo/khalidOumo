@@ -2,6 +2,8 @@
 
 I'm **Khalid**, a **Full-Stack Software Builder** passionate about creating robust applications from **Web to Mobile**, with solid **Backend & CI/CD skills**. 🚀
 
+
+
 ---
 
 ### 🔭 What I do
@@ -42,13 +44,6 @@ I'm **Khalid**, a **Full-Stack Software Builder** passionate about creating robu
 - Web & Mobile App development  
 - Backend architecture & optimization  
 - CI/CD pipelines & DevOps automation  
-
----
-
-### 📫 How to reach me
-- Email: `your.email@example.com`  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
